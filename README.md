@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA concepts**
 
-- 🤝 I’m looking for help with **Kubernetes**
+- 🤝 I’m looking for help with **Competitive Programming**
 
 - 💬 Ask me about **ML,python**
 
