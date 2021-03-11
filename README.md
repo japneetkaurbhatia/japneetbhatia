@@ -10,6 +10,7 @@
 - 🤝 I’m looking for help with **Competitive Programming**
 
 - 💬 Ask me about **ML,python**
+- ⚡ Fun fact: I prefer light mode >>>> dark mode
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
