@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Japneet</h1>
-<h3 align="center">Data Structures And Algorithms</h3>
+<h3 align="center">Data Structures And Algorithms && Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japneetbhatia&label=Profile%20views&color=0e75b6&style=flat" alt="japneetbhatia" /> </p>
 
