@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Japneet</h1>
-<h3 align="center">Machine Learning Enthusist</h3>
+<h3 align="center">Data Structures And Algorithms</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japneetbhatia&label=Profile%20views&color=0e75b6&style=flat" alt="japneetbhatia" /> </p>
 
@@ -8,9 +8,6 @@
 - 🌱 I’m currently learning **DSA concepts**
 
 - 🤝 I’m looking for help with **Competitive Programming**
-
-- 💬 Ask me about **ML,python**
-- ⚡ Fun fact: I prefer light mode >>>> dark mode
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
