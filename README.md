@@ -5,9 +5,9 @@
 
 <!-- - 🔭 I’m currently working on **Open Source**
 
-- 🌱 I’m currently learning **DSA concepts**
+- 🌱 I’m currently learning **DSA concepts** -->
 
-- 🤝 I’m looking for help with **Competitive Programming** -->
+ 🤝 I’m a final year B.Tech Student preparing for Software Developor Roles 
 
 <h3 align="left">Connect with me:</h3>
  <p align="left">
