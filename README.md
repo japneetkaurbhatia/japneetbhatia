@@ -13,7 +13,7 @@ I'm Japneet. I am final year student puruing Bachelor of Technology, looking for
 - ***Programming:*** Java, C++  
 - ***Problem Soving:*** Data Structures, Algorithm
 - ***Frontend:*** HTML, CSS, JavaScript, React
-- ***Database:*** SQL, MongoDB
+- ***Database:*** SQL
 - ***Backend:*** Node, Firebase
 - ***Web Scrapping:*** Selenium
 - ***Core Concepts:*** OOPs, DBMS
