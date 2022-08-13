@@ -3,8 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japneetbhatia&label=Profile%20views&color=0e75b6&style=flat" alt="japneetbhatia" /> </p>
 
 ## Hey! 👋
-I'm Japneet. I am final year student puruing Bachelor of Technology, looking for 6-month internship or fulltime roles in Software Developer, Frontend Developer or Full Stack Developer roles.
-
+I'm Japneet. I am 2022 graduate in Bachelors of Technology (Information Technology). Currently I am working as Application Developer at Thoughtworks. I am exploring new Software Developer opportunities.
 <!-- - 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
 - 👥 Core team member at [@nestdotland](https://github.com/nestdotland) -->
@@ -20,7 +19,7 @@ I'm Japneet. I am final year student puruing Bachelor of Technology, looking for
 
 ## Contact
 - ***Portfolio:*** [JapneetKaur](https://japneetkaur-ff73e.web.app/)
-- ***Linkedin:*** [JapneetKaur](https://www.linkedin.com/in/japneet-kaur-b-400b60194/)
+- ***Linkedin:*** [JapneetKaur](https://www.linkedin.com/in/japneet-kaur-bhatia)
 - ***Leetcode:*** [japneetkaur](https://leetcode.com/japneetkaur/) 
 - ***Hackerrank:*** [japneetk1111](https://www.hackerrank.com/japneetk1111?hr_r=1) 
 
